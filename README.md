@@ -1,5 +1,5 @@
 ### Hi there 👋 , I am Celestine
-
+Mathematical and Numerical Analysis , Parallelizing Algorithms ,and Scientific Computing. 
 
 
 
