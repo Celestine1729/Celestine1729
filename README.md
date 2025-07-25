@@ -1,5 +1,5 @@
 ### Hi there 👋 , I am Celestine
-Mathematical and Numerical Analysis , Parallelizing Algorithms, chess, and Scientific Computing. 
+Author of DNLAP, Interested in Mathematical and Numerical Analysis , Parallelizing Algorithms, chess, and Scientific Computing. 
 
 
 
